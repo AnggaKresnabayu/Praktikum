@@ -1,10 +1,3 @@
-/*
-Nama    : Angga Kresnabayu
-Kelas   : A
-NPM     : 140810160001
-Program : Algoritma Pencarian Nilai Maksimal
-*/
-
 #include <iostream>
 using namespace std;
 
